@@ -12,13 +12,13 @@ Using Excel PivotTables, Charts, and Slicers, I transformed raw data into meanin
 ✅ Interactive Dashboard: Dynamic slicers to explore purchase trends  
 ✅ Visual Insights: Graphs and charts for quick analysis
 
-📸 Dashboard Preview
-
+📸 Dashboard Preview  
+![Alt Text](https://github.com/NurShahirahNabila/PortfolioProjects/blob/main/images/dashboard.png)
 
 
 
 📂 How to Use  
-1️⃣ Download the Excel file: [Click here to download](https://github.com/NurShahirahNabila/PortfolioProjects/raw/refs/heads/main/5%20Excel%20-%20Data%20Cleaning%20and%20Dashboard.xlsx)  
+1️⃣ Download the Excel file: [Click here to download](https://github.com/NurShahirahNabila/PortfolioProjects/raw/refs/heads/main/5%20Excel%20File%20-%20Consumer%20Demographics%20&%20Bike%20Purchases.xlsx)  
 2️⃣ Open in Microsoft Excel  
 3️⃣ Use the slicers to explore customers' purchasing behavior by gender and region
 
