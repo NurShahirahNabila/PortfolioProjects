@@ -93,13 +93,13 @@ WHERE dates IS NOT NULL
 ORDER BY dates ASC;
 
 -- creating view to store industry layoff trends for easy visualization
-CREATE VIEW IndustryLayoffTrends AS
+CREATE VIEW industry_layoff_trends AS
 SELECT industry, YEAR(date) , SUM(total_laid_off) AS total_layoffs
 FROM layoffs_staging2
 WHERE industry IS NOT NULL
 GROUP BY industry, YEAR(date);
 
-SELECT * FROM IndustryLayoffTrends;
+SELECT * FROM industry_layoff_trends;
 
 
 
