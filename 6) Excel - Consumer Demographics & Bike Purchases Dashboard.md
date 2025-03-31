@@ -1,13 +1,11 @@
 📊 Consumer Demographics and Bike Purchases - Interactive Excel Dashboard
 
-📌 Project Overview
-
+📌 Project Overview  
 This project is an interactive Excel dashboard analyzing consumer demographics and purchasing behavior, particularly focusing on whether individuals have purchased a bike.
 The dataset includes various factors such as income, education, occupation, marital status, commute distance, and car ownership to uncover trends in consumer decisions.
 Using Excel PivotTables, Charts, and Slicers, I transformed raw data into meaningful insights.
 
-🔍 Key Features
-
+🔍 Key Features  
 ✅ Data Cleaning: Removed duplicates and standardized formats with Excel formulas  
 ✅ Interactive Dashboard: Dynamic slicers to explore purchase trends  
 ✅ Visual Insights: Graphs and charts for quick analysis
