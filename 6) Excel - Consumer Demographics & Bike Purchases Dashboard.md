@@ -13,8 +13,7 @@ Using Excel PivotTables, Charts, and Slicers, I transformed raw data into meanin
 ✅ Visual Insights: Graphs and charts for quick analysis
 
 📸 Dashboard Preview  
-![Alt Text](https://github.com/NurShahirahNabila/PortfolioProjects/blob/main/images/dashboard.png)
-
+![Alt Text](https://github.com/NurShahirahNabila/PortfolioProjects/blob/main/images/1_dashboard.png)
 
 
 📂 How to Use  
